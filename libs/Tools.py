@@ -7,8 +7,8 @@ from libs.llm import llm
 import os
 from dotenv import load_dotenv
 key = os.getenv("GEMINI_API_KEY")
-serper_key = "3c83c73e744b160551b917b550366c95eba9953e" #your serper api key .
-browser_key = "04b7fd1134964d3b9bcf9043f83b4250" #Your Scraping Ant api key
+serper_key = "" #your serper api key .
+browser_key = "" #Your Scraping Ant api key
 llm = llm.Gemini #GPU intensive task
 
 class SearchTools():
