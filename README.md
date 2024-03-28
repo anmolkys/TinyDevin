@@ -1,7 +1,8 @@
 
 # Tiny Devin
 
-TinyDevin is an Intern Software Engineer that takes your task as input ,analyses it , searches Internet for research and builds code on the basis of research.
+- TinyDevin is an Intern Software Engineer that takes your task as input ,analyses it , searches Internet for research and builds code on the basis of research.
+- It can also run your local models using ollama
 
 
 
