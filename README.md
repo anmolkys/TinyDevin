@@ -59,7 +59,7 @@ To run devin - Change task in tinyDevin.py as per required
 
 [![Screenshot-2024-03-28-225750.png](https://i.postimg.cc/HnHDdPZg/Screenshot-2024-03-28-225750.png)](https://postimg.cc/gXMBK4bS)
 
-- During Execution
+- During Execution - Searching the Internet
 
 [![Screenshot-2024-03-28-230408.png](https://i.postimg.cc/Hxr4jpN0/Screenshot-2024-03-28-230408.png)](https://postimg.cc/62NGmNtT)
 
@@ -68,7 +68,7 @@ To run devin - Change task in tinyDevin.py as per required
 [![ss.png](https://i.postimg.cc/ZRQBQpVp/ss.png)](https://postimg.cc/34gx44Mx)
 ## Todos
 
-- [ ]  Add .env Support
+- [ ]  Add .env Support (idk why I did not think of it)
 - [ ]  Add a task input
 - [ ]  Optimise prompts to increase accuracy
 - [ ]  Make a UI (probably)
