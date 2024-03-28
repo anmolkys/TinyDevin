@@ -2,7 +2,7 @@ from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain_openai import ChatOpenAI
 import os
 from dotenv import load_dotenv
-key = "AIzaSyDzhk7JZzLzD5fnUfynBsyvA1XFj1ovLQY"
+key = ""
  #your google gemini key
 
 
