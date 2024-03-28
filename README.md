@@ -53,6 +53,19 @@ To run devin - Change task in tinyDevin.py as per required
 ```
 
 
+## Screenshots
+
+- Setting up task variable
+
+[![Screenshot-2024-03-28-225750.png](https://i.postimg.cc/HnHDdPZg/Screenshot-2024-03-28-225750.png)](https://postimg.cc/gXMBK4bS)
+
+- During Execution
+
+[![Screenshot-2024-03-28-230408.png](https://i.postimg.cc/Hxr4jpN0/Screenshot-2024-03-28-230408.png)](https://postimg.cc/62NGmNtT)
+
+- After Execution: 
+
+[![ss.png](https://i.postimg.cc/ZRQBQpVp/ss.png)](https://postimg.cc/34gx44Mx)
 ## Todos
 
 - [ ]  Add .env Support
